@@ -6,3 +6,6 @@ firebase.json
 .env
 
 client/public/bundle.js
+
+## Log Files
+*.log
